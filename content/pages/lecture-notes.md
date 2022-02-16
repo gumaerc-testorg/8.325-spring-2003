@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 4cf0e4bf-63c1-cb09-6f75-24d47eddcc94
 ---
@@ -32,11 +35,11 @@ SUSY Modifications
 
 History and Sketch of Example Application
 
-Meson Masses, UA(1) Problem
+Meson Masses, U{{< sub "A" >}}(1) Problem
 
 **Meson Mass Matrix** ([PDF]({{< baseurl >}}/resources/chap8))
 
-**Resolution of UA(1)** ([PDF]({{< baseurl >}}/resources/chap9))
+**Resolution of U{{< sub "A" >}}(1)** ([PDF]({{< baseurl >}}/resources/chap9))
 
 **Strong P, T Problem** ([PDF]({{< baseurl >}}/resources/chap10))
 

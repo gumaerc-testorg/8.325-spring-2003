@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Chapter 4 of the course lecture notes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-325-relativistic-quantum-field-theory-iii-spring-2003/d03a9b1d084448d3d14309e06d2fd81a_chap4.pdf
+file: /media/courses/8-325-relativistic-quantum-field-theory-iii-spring-2003/d03a9b1d084448d3d14309e06d2fd81a_chap4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: chap4.pdf
 uid: d03a9b1d-0844-48d3-d143-09e06d2fd81a

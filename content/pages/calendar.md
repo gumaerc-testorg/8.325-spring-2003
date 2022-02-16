@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: b71dd9cc-476d-3940-cee2-8b79af40b729
 ---
@@ -331,7 +333,7 @@ Application to Standard Model and Unified Models
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**Chiral Symmetry and the U(1)A Problem**
+**Chiral Symmetry and the U(1){{< sub "A" >}} Problem**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -370,7 +372,7 @@ Goldberger-Treiman Relation
 23
 {{< tdclose >}}
 {{< tdopen >}}
-_The U(1)A Problem  
+_The U(1){{< sub "A" >}} Problem  
   
 _Absence of NG Boson for Axial Baryon Number  
   
@@ -380,7 +382,7 @@ Difficulty this Presents
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**Instantons and U(1)A Breaking**
+**Instantons and U(1){{< sub "A" >}} Breaking**
 {{< tdclose >}}
 
 {{< trclose >}}
