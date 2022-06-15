@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains links to the related websites for study materials.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
