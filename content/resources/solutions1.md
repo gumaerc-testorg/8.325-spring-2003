@@ -6,6 +6,7 @@ file: /courses/8-325-relativistic-quantum-field-theory-iii-spring-2003/6b52918e7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: solutions1.pdf
 uid: 6b52918e-7f01-629a-578d-245281a5c94a
 ---
 Solutions to the problems are courtesy of Umut Gursoy, the Teaching Assistant for this course. Used with permission.
-

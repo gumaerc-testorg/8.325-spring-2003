@@ -5,6 +5,7 @@ file: /courses/8-325-relativistic-quantum-field-theory-iii-spring-2003/74619ebf2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: chap6.pdf
 uid: 74619ebf-219b-0086-b3bf-14f77ff01f0b
 ---
 Chapter 6 of the course lecture notes.
-

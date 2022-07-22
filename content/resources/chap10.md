@@ -5,6 +5,7 @@ file: /courses/8-325-relativistic-quantum-field-theory-iii-spring-2003/ccb96a970
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: chap10.pdf
 uid: ccb96a97-0564-30f2-c743-c6934641bafd
 ---
 Chapter 10 of the course lecture notes.
-
