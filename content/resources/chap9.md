@@ -2,6 +2,7 @@
 content_type: resource
 description: Chapter 9 of the course lecture notes.
 file: /courses/8-325-relativistic-quantum-field-theory-iii-spring-2003/da89f17be2dc297330039145c5494530_chap9.pdf
+file_size: 118403
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
