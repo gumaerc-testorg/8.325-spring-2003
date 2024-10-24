@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Chapter 10 of the course lecture notes.
-file: /courses/8-325-relativistic-quantum-field-theory-iii-spring-2003/ccb96a97056430f2c743c6934641bafd_chap10.pdf
+file: /ol-ocw-studio-app/courses/8-325-relativistic-quantum-field-theory-iii-spring-2003/ccb96a97056430f2c743c6934641bafd_chap10.pdf
 file_size: 80973
 file_type: application/pdf
 learning_resource_types:
