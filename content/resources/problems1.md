@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /courses/8-325-relativistic-quantum-field-theory-iii-spring-2003/d7a0a206525543f4582649c2ecd98302_problems1.pdf
+file: /ol-ocw-studio-app/courses/8-325-relativistic-quantum-field-theory-iii-spring-2003/d7a0a206525543f4582649c2ecd98302_problems1.pdf
 file_size: 140891
 file_type: application/pdf
 learning_resource_types:
