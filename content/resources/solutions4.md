@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to the problems are courtesy of Umut Gursoy, the Teaching Assistant
   for this course. Used with permission.
-file: /ol-ocw-studio-app/courses/8-325-relativistic-quantum-field-theory-iii-spring-2003/93aa8e0dd4e04f018dadc9bf98cdca6d_solutions4.pdf
+file: /courses/8-325-relativistic-quantum-field-theory-iii-spring-2003/93aa8e0dd4e04f018dadc9bf98cdca6d_solutions4.pdf
 file_size: 175615
 file_type: application/pdf
 learning_resource_types:
