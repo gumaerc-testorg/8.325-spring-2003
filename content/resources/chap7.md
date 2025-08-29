@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Chapter 7 of the course lecture notes.
-file: /courses/8-325-relativistic-quantum-field-theory-iii-spring-2003/ea7e9d824e7601fad4888d6ae8a3ea5c_chap7.pdf
+file: /ol-ocw-studio-app/courses/8-325-relativistic-quantum-field-theory-iii-spring-2003/ea7e9d824e7601fad4888d6ae8a3ea5c_chap7.pdf
 file_size: 134559
 file_type: application/pdf
 learning_resource_types:
