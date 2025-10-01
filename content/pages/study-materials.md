@@ -12,27 +12,27 @@ Below are links to some useful readings. These papers can all be downloaded from
 General References
 ------------------
 
-[Review of Quantum Field Theory: Frank Wilczek](http://de.arxiv.org/abs/hep-th/9803075)
+{{% resource_link "cd8ff095-da07-42cd-bd1c-11df08e07360" "Review of Quantum Field Theory: Frank Wilczek" %}}
 
-[Review of the Standard Model: Jonathan L. Rosner](http://de.arxiv.org/abs/hep-ph/0108195)
+{{% resource_link "5371f5e5-b80f-46cb-a5d9-d0e5fcf6b1b2" "Review of the Standard Model: Jonathan L. Rosner" %}}
 
-[Unification "Easy Reading": Frank Wilczek](http://de.arxiv.org/abs/hep-ph/0101187)
+{{% resource_link "de59125f-c63c-49bc-8376-1b8d7c289652" "Unification \"Easy Reading\": Frank Wilczek" %}}
 
-[Neutrinos in Cosmology: A. D. Dolgov](http://de.arxiv.org/abs/hep-ph/0202122)
+{{% resource_link "d080c68e-1827-4668-9936-47ced71a4a23" "Neutrinos in Cosmology: A. D. Dolgov" %}}
 
 Deep-inelastic Scattering References
 ------------------------------------
 
-[Asymptotically Free Gauge Theories. I: Gross and Wilczek](http://prd.aps.org/abstract/PRD/v8/i10/p3633_1)
+{{% resource_link "ac88712e-223f-4676-b339-ca34a237a94e" "Asymptotically Free Gauge Theories. I: Gross and Wilczek" %}}
 
-[Asymptotically Free Gauge Theories. II: Gross and Wilczek](http://prd.aps.org/abstract/PRD/v9/i4/p980_1)
+{{% resource_link "7f4332e0-5792-4d35-ac1f-91f6564a3e73" "Asymptotically Free Gauge Theories. II: Gross and Wilczek" %}}
 
 Factorization Reference
 -----------------------
 
-[Hard Scattering Factorization from Effective Field Theory: Bauer, Fleming, Pirjol, Rothstein, Stewart](http://de.arxiv.org/abs/hep-ph/0201180)
+{{% resource_link "b0655b75-dfe9-4e48-8f44-49abecd0eb08" "Hard Scattering Factorization from Effective Field Theory: Bauer, Fleming, Pirjol, Rothstein, Stewart" %}}
 
 Useful Standard Model Reference
 -------------------------------
 
-[CORE 2.1 (COmpendium of RElations, Version 2.1) V. I. Borodulin, R. N. Rogalyov, S. R. Slabospitsky](http://de.arxiv.org/abs/hep-ph/9507456)
+{{% resource_link "83a153ad-e8eb-440b-a916-c7347a944070" "CORE 2.1 (COmpendium of RElations, Version 2.1) V. I. Borodulin, R. N. Rogalyov, S. R. Slabospitsky" %}}
